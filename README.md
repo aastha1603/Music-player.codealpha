@@ -1,1 +1,1 @@
-# Music-player.codealpha
+This music player is built using HTML, CSS, and JavaScript. It features a modern UI with album art, track title, artist name, and playback controls. Users can play, pause, skip tracks, and adjust the progress bar. The design is responsive and styled for an interactive and smooth listening experience.
